@@ -1,11 +1,11 @@
-# 🕹️ Raylib Pong Game
+#  Raylib Pong Game
 
 Welcome to a classic **Pong-style game** built using [Raylib](https://www.raylib.com/)!  
 Control the paddle, hit the ball, beat the CPU — and enjoy the retro-inspired colors.
 
 ---
 
-## 🎮 Gameplay
+##  Gameplay
 
 - The **player** controls the paddle on the right using the `UP` and `DOWN` arrow keys.
 - The **CPU** paddle is on the left and automatically tracks the ball.
@@ -15,26 +15,26 @@ Control the paddle, hit the ball, beat the CPU — and enjoy the retro-inspired 
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🚀 Smooth 60 FPS gameplay
-- 🎨 Retro green-themed visuals with custom colors
-- 🤖 Basic AI-controlled opponent
-- 🔄 Ball resets after each goal with random direction
-- 📏 Collision detection and movement constraints
+-  Retro green-themed visuals with custom colors
+-  Basic AI-controlled opponent
+-  Ball resets after each goal with random direction
+-  Collision detection and movement constraints
 
 ---
 
-## 🧱 Built With
+##  Built With
 
 - **C++**
 - **[Raylib](https://www.raylib.com/)** - a simple and easy-to-use library to enjoy game programming
 
 ---
 
-## 🧪 How to Run
+##  How to Run
 
-### ✅ Prerequisites:
+###  Prerequisites:
 - Raylib installed and linked correctly
 - C++ compiler (like `g++` or `clang++`)
 - OS: Windows / Linux / Mac
