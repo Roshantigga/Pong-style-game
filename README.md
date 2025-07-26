@@ -28,7 +28,7 @@ Control the paddle, hit the ball, beat the CPU — and enjoy the retro-inspired 
 ##  Built With
 
 - **C++**
-- **[Raylib](https://www.raylib.com/)** - a simple and easy-to-use library to enjoy game programming
+- **[Raylib](https://www.raylib.com/)** 
 
 ---
 
